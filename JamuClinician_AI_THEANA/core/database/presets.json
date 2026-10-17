@@ -1,0 +1,38 @@
+{
+  "case1": {
+    "title": "DM2 + Hipertensi (Pegal Linu)",
+    "age": 54,
+    "gender": "Wanita",
+    "comorbidities": ["Diabetes Tipe 2", "Hipertensi"],
+    "drugs": ["Metformin 500mg BID", "Amlodipine 5mg QD"],
+    "complaints": ["Pegal Linu & Nyeri Otot", "Kekakuan Sendi Pagi Hari"],
+    "targetJamu": "Jamu Pegal Linu / Kunyit Asam"
+  },
+  "case2": {
+    "title": "Gout & Gastritis (Nyeri Sendi)",
+    "age": 48,
+    "gender": "Pria",
+    "comorbidities": ["Hiperurisemia / Gout", "Gastritis / Maag"],
+    "drugs": ["Allopurinol 100mg QD", "Meloxicam 7.5mg PRN"],
+    "complaints": ["Pegal Linu & Nyeri Otot", "Kekakuan Sendi Pagi Hari"],
+    "targetJamu": "Jamu Asam Urat Sambiloto"
+  },
+  "case3": {
+    "title": "Dislipidemia + Statin (Kelelahan)",
+    "age": 59,
+    "gender": "Wanita",
+    "comorbidities": ["Dislipidemia", "Hipertensi"],
+    "drugs": ["Atorvastatin 20mg Nocte", "Captopril 25mg BID"],
+    "complaints": ["Lemas & Badan Cepat Lelah", "Pegal Linu & Nyeri Otot"],
+    "targetJamu": "Jamu Temulawak Jahe"
+  },
+  "case4": {
+    "title": "Lansia Polifarmasi (Klirens Renal)",
+    "age": 68,
+    "gender": "Pria",
+    "comorbidities": ["Hipertensi", "Gangguan Fungsi Ginjal"],
+    "drugs": ["Captopril 25mg BID", "Furosemide 40mg Mane"],
+    "complaints": ["Kekakuan Sendi Pagi Hari", "Lemas & Badan Cepat Lelah"],
+    "targetJamu": "Formulasi Klinis Teroptimasi"
+  }
+}

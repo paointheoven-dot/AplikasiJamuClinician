@@ -1,0 +1,20 @@
+{
+  "name": "jamuclinician-ai",
+  "version": "2.4.0",
+  "description": "Multi-Agent Clinical Pharmacognosy & Herb-Drug Interaction (HDI) Decision Engine",
+  "author": "THEANA",
+  "scripts": {
+    "build": "echo 'Ready for Vercel'",
+    "start": "python3 app.py",
+    "test": "pytest tests/",
+    "cli": "python3 app.py --cli"
+  },
+  "keywords": [
+    "clinical-pharmacology",
+    "phytotherapy",
+    "multi-agent",
+    "herb-drug-interaction",
+    "saintifikasi-jamu"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+/* Clinical Telemetry Custom Stylesheet */
+:root {
+  --primary-botanical: #10b981;
+  --primary-telemetry: #06b6d4;
+  --warning-amber: #f59e0b;
+  --danger-rose: #f43f5e;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.f1-hairline-border {
+  border: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+html.dark .f1-hairline-border {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
